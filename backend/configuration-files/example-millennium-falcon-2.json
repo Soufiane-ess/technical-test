@@ -1,0 +1,6 @@
+{
+    "autonomy": 6,
+    "departure": "Birren",
+    "arrival": "Mandalore",
+    "routes_db": "my_universe_2.db"
+}

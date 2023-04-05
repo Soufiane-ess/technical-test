@@ -1,0 +1,9 @@
+{
+    "countdown": 10, 
+    "bounty_hunters": [
+        {"planet": "Jakku", "day": 5 },
+        {"planet": "Geonosis", "day": 12 },
+        {"planet": "Chandrila", "day": 3 },
+        {"planet": "Miser", "day": 4 }
+    ]
+}
