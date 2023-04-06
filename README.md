@@ -38,6 +38,17 @@ When the server is started, it will listen on port __8080__.
 ### Starting the front-end
 The front-end is based on React.
 Make sure you have _npm_ installed (https://docs.npmjs.com/downloading-and-installing-node-js-and-npm).
+Confirm the availability of the npm dependencies (listed in package.json) needed to run the React app :
+```
+    "@testing-library/jest-dom": "^5.16.5",
+    "@testing-library/react": "^14.0.0",
+    "@testing-library/user-event": "^14.4.3",
+    "axios": "^1.3.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "^5.0.1",
+    "web-vitals": "^3.3.1"
+```
 Go to the the _**/odds-calculator-app/_ directory, and run :
 ```
 npm start
