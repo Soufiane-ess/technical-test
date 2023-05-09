@@ -1,4 +1,4 @@
-# Giskard technical test - Soufiane Essamadi
+# Giskard technical test
 
 
 ## Application architecture
