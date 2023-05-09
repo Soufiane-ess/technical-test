@@ -1,4 +1,4 @@
-# Giskard technical test
+# technical test
 
 
 ## Application architecture
